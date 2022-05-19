@@ -1,7 +1,8 @@
 <h1> Olá! Eu sou Marcelo Pimenta 🌶️</h1>
 <div>
   <p> 💻 Sempre em busca de novos conhecimentos </p>
-  <p> 📘 Atualmente estudando JavaScript - CSS - HTML - NodeJs </p>
+  <p> 🤯 Desenvolvedor Front-End | Aspirante a FullStack</p>
+  <p> 📘 JavaScript - CSS - HTML - NodeJs - React - Materialize - Git - MongoDB - C - Python </p>
 </div>
 <br>
 <div>
