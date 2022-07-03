@@ -1,8 +1,8 @@
 <h1> Olá! Eu sou Marcelo Pimenta 🌶️</h1>
 <div>
   <p> 💻 Sempre em busca de novos conhecimentos </p>
-  <p> 🤯 Desenvolvedor Front-End | Aspirante a FullStack</p>
-  <p> 📘 JavaScript - CSS - HTML - NodeJs - React - Materialize - Git - MongoDB - C - Python </p>
+  <p> 🤯 Desenvolvedor Front-End | Learning Back-end</p>
+  <p> 📘 JavaScript - TypeScript - CSS - HTML - NodeJs - React - TailWind - Java - Kotlin - Git - GraphQl - MongoDB </p>
 </div>
 <br>
 <div>
