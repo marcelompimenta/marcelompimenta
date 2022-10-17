@@ -1,8 +1,8 @@
-<h1> Olá! Eu sou Marcelo Pimenta 🌶️</h1>
+<h1> And I'm Marcelo "Pepper 😁" Pimenta 🌶️</h1>
 <div>
-  <p> 💻 Sempre em busca de novos conhecimentos </p>
-  <p> 🤯 Desenvolvedor Front-End | Learning Back-end</p>
-  <p> 📘 JavaScript - TypeScript - CSS - HTML - NodeJs - React - TailWind - Java - Kotlin - Git - GraphQl - MongoDB </p>
+  <p> 💻 Always looking for new horizons </p>
+  <p> 🤯 Front-End Developer | I've studied Java</p>
+  <p> 📘 TypeScript - NodeJs - React - TailWind - Java - Git </p>
 </div>
 <br>
 <div>
