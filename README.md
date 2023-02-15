@@ -1,8 +1,8 @@
 <h1> And I'm Marcelo "Pepper 😁" Pimenta 🌶️</h1>
 <div>
   <p> 💻 Always looking for new horizons </p>
-  <p> 🤯 Front-End Developer | I've studied Java</p>
-  <p> 📘 TypeScript - NodeJs - React - TailWind - Java - Git </p>
+  <p> 🤯 Front-End Developer | I've studied NextJS</p>
+  <p> 📘 TypeScript - NodeJs - React - Angular - TailWindCSS - Styled Components - Git </p>
 </div>
 <br>
 <div>
