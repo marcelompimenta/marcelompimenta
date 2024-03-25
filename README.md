@@ -1,8 +1,8 @@
-<h1> Repo mais caótico do github</h1>
+<h1>Improving processes and creating solutions</h1>
 <div>
-  <p> 💻 Always looking for new horizons </p>
-  <p> 🤯 Front-End Developer | I've studied NextJS</p>
-  <p> 📘 TypeScript - NodeJs - React - Angular - TailWindCSS - Styled Components - Git </p>
+  <p> 💻 Continuous development </p>
+  <p> 🤯 Front-End Developer | I Coming soon full stack</p>
+  <p> 📘 TS/JS - NodeJS - React/Next - Angular - TailWindCSS - Styled Components - Git </p>
 </div>
 <br>
 <div>
