@@ -1,8 +1,8 @@
 <h1>Improving processes and creating solutions</h1>
 <div>
   <p> 💻 Continuous development </p>
-  <p> 🤯 Front-End Developer | I Coming soon full stack</p>
-  <p> 📘 TS/JS - NodeJS - React/Next - Angular - TailWindCSS - Styled Components - Git </p>
+  <p> 🤯 Full Stack Developer</p>
+  <p> 📘 TS/JS - NodeJS - React/Next - Angular - TailWindCSS - Styled Components </p>
 </div>
 <br>
 <div>
