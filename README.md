@@ -26,7 +26,6 @@
 - 🤯 **Full Stack Developer** com experiência sólida na construção de ponta a ponta (Frontend, Backend, Bancos de Dados e Cloud).
 - 🚀 Experiência na criação de esteiras automatizadas (CI/CD com GitHub Actions e GitLab) para testes e entregas contínuas.
 - 🧠 Entusiasta de Inteligência Artificial e na integração de soluções de IA em aplicações web.
-- 🤝 Atuo com mentoria (Mentoria Individual / COD3RS) e onboarding na comunidade técnica, ajudando no desenvolvimento de outros programadores.
 
 ---
 
@@ -113,7 +112,6 @@
 - 🤯 **Full Stack Developer** with solid experience in end-to-end development (Frontend, Backend, Databases, and Cloud).
 - 🚀 Experience in building automated pipelines (CI/CD with GitHub Actions and GitLab) for testing and continuous delivery.
 - 🧠 Artificial Intelligence enthusiast, integrating AI solutions into web applications.
-- 🤝 Active in mentoring (Individual Mentoring / COD3RS) and onboarding in the tech community, helping other developers grow.
 
 ---
 
