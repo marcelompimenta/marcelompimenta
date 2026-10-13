@@ -79,6 +79,8 @@
 </p>
 
 
+
+
 <div id="-versão-em-português"></div>
 
 <h1 align="center">Bem vindo, ao meu repositório! 👋</h1>
