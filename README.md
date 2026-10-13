@@ -4,7 +4,7 @@
 
 <div id="-versão-em-português"></div>
 
-<h1 align="center">Bem vindo, ao meu repositporio!</h1>
+<h1 align="center">Bem vindo, ao meu repositório!</h1>
 <h2 align="center">Marcelo Pimenta, aqui!</h2>
 
 <h3 align="center">Improving processes and creating solutions</h3>
