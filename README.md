@@ -2,7 +2,7 @@
 <div>
   <p> 💻 Continuous development </p>
   <p> 🤯 Full Stack Developer</p>
-  <p> 📘 TS/JS - NodeJS - React/Next - Angular - TailWindCSS - Styled Components </p>
+  <p> 📘 Python - TS/JS - NodeJS - React/Next - Angular - TailWindCSS - AWS - Azure </p>
 </div>
 <br>
 <div>
