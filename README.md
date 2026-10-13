@@ -2,6 +2,13 @@
   <a href="#-english-version">🇺🇸 English</a> | <a href="#-versão-em-português">🇧🇷 Português</a>
 </div>
 
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcelompimenta&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Marcelo's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelompimenta&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
 <div id="-english-version"></div>
 
 <h1 align="center">Welcome to my repository!👋</h1>
@@ -78,8 +85,9 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="Jest" title="Jest"/>
 </p>
 
-
-
+<br>
+<hr>
+<br>
 
 <div id="-versão-em-português"></div>
 
@@ -157,20 +165,4 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="Jest" title="Jest"/>
 </p>
 
-### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcelompimenta&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Estatísticas do GitHub do Marcelo" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelompimenta&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<br>
-<hr>
-<br>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcelompimenta&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Marcelo's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelompimenta&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
