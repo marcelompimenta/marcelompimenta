@@ -138,7 +138,7 @@
 
 **Artificial Intelligence:**
 <p align="left">
-  <img width="40" src="https://cdn.simpleicons.org/openai/white" alt="OpenAI" title="OpenAI"/>
+  <!-- <img width="40" src="https://cdn.simpleicons.org/openai/white" alt="OpenAI" title="OpenAI"/> -->
   <img width="40" src="https://cdn.simpleicons.org/langchain/white" alt="LangChain" title="LangChain"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow"/>
 </p>
